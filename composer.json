@@ -1,5 +1,5 @@
 {
-    "name": "topwire/topwire",
+    "name": "torben-fr/topwire",
     "repositories": {
         "local-packages": {
             "url": ".packages/*",
